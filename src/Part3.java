@@ -5,6 +5,7 @@ public class Part3 {
         numbersArray[1] = 78;
         numbersArray[2] = 89;
         numbersArray[3] = 56;
+
         numbersArray[4] = 98;
         numbersArray[5] = 500;
         numbersArray[6] = 87;
